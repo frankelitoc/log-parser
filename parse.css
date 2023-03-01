@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#scroll-to-top {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    color: white;
+    background: black;
+    cursor: pointer;
+    text-decoration: none;
+}
